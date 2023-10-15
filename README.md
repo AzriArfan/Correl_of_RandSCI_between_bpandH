@@ -60,12 +60,12 @@ peakCorrCoeff = 0.975715487711226
 
 <h3>Scatter plots</h3>
 
-![SP_DH_and_R](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/9406a628-ca23-4de3-95c3-d76143f3556e)
-
-![SP_DH_and_SCI](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/0f69d683-71be-4d62-87ff-ef5144d97c50)
-
 ![SP_bp_and_R](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/052c3154-c2eb-4aae-ba43-a23aa3c217ec)
 
 ![SP_bp_and_SCI](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/a04cc1d8-c839-4acd-b894-3895089ca782)
+
+![SP_DH_and_R](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/9406a628-ca23-4de3-95c3-d76143f3556e)
+
+![SP_DH_and_SCI](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/0f69d683-71be-4d62-87ff-ef5144d97c50)
 
 
