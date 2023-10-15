@@ -39,6 +39,7 @@ peakCorrCoeff = 0.975715487711226
 ```
 
 <h3>Combine correlation curves</h3>
+
 ![fargraph_bp](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/f72b55d4-da37-49a1-811b-46812572e3e2)
 
 ![fargraph_DH](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/8912b6a4-7858-4ad2-be42-392fd18d6951)
@@ -46,3 +47,25 @@ peakCorrCoeff = 0.975715487711226
 ![neargraph_bp](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/82e7da79-5f00-4694-99ee-c15c598d61d2)
 
 ![neargraph_DH](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/7850fea1-c5c3-4a12-b2c3-27219a9c1a0e)
+
+<h3>Good alpha intervals</h3>
+
+![EG_bp_and_Rnew](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/c82966a1-412a-45cb-a76a-7967ec28c643)
+
+![EG_bp_and_SCInew](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/a39411bb-fc9f-4daf-b44d-cdd3f092cf3c)
+
+![EG_DH_and_Rnew](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/a29aca9d-d103-4bb6-bd3f-bb65fc593a77)
+
+![EG_DH_and_SCInew](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/68a7ce7f-5586-4934-b785-c1649e1fa82c)
+
+<h3>Scatter plots</h3>
+
+![SP_DH_and_R](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/9406a628-ca23-4de3-95c3-d76143f3556e)
+
+![SP_DH_and_SCI](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/0f69d683-71be-4d62-87ff-ef5144d97c50)
+
+![SP_bp_and_R](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/052c3154-c2eb-4aae-ba43-a23aa3c217ec)
+
+![SP_bp_and_SCI](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/a04cc1d8-c839-4acd-b894-3895089ca782)
+
+
