@@ -42,9 +42,9 @@ peakCorrCoeff = 0.975715487711226
 
 ![fargraph_bp](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/f72b55d4-da37-49a1-811b-46812572e3e2)
 
-![fargraph_DH](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/8912b6a4-7858-4ad2-be42-392fd18d6951)
-
 ![neargraph_bp](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/82e7da79-5f00-4694-99ee-c15c598d61d2)
+
+![fargraph_DH](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/8912b6a4-7858-4ad2-be42-392fd18d6951)
 
 ![neargraph_DH](https://github.com/AzriArfan/Correl_of_RandSCI_between_bpandH/assets/145908475/7850fea1-c5c3-4a12-b2c3-27219a9c1a0e)
 
